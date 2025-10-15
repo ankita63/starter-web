@@ -8,6 +8,10 @@ This example is to show different parts of git repository and various commands u
 
 ## purpose
 
+As per above.
+
 ## deployment
+
+Deployment can be on any web server or local file system.
 
 ## how to contribute

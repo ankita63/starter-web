@@ -15,3 +15,7 @@ As per above.
 Deployment can be on any web server or local file system.
 
 ## how to contribute
+
+##copyright
+
+git.training

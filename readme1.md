@@ -16,6 +16,8 @@ Deployment can be on any web server or local file system.
 
 ## how to contribute
 
+Please fork this repository and then issue Pull Requests for review
+
 ##copyright
 
 git.training

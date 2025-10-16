@@ -24,3 +24,4 @@ Please fork this repository and then issue Pull Requests for review
 
 git.training
 adding more warning
+all rights reserved
